@@ -1,0 +1,90 @@
+{
+  "teacup": {
+    "DIR_XMILE": "root/modelos/teacup/teacup.xmile",
+    "DEVSML_CPP_H_DIRECTORY": "root/modelos/teacup/atomics/",
+    "DEVSML_EVENTS_FILENAME": "root/modelos/teacup/events.ev",
+    "DEVSML_TOP_FILENAME": "root/modelos/teacup/top.xml",
+    "DEVSML_MA_FILENAME": "root/modelos/teacup/mafile.ma",
+    "DEVSML_SH_FILENAME": "root/modelos/teacup/run.sh"
+  },
+  "sir": {
+    "DIR_XMILE": "root/modelos/sir/sir.xmile",
+    "DEVSML_CPP_H_DIRECTORY": "root/modelos/sir/atomics/",
+    "DEVSML_EVENTS_FILENAME": "root/modelos/sir/events.ev",
+    "DEVSML_TOP_FILENAME": "root/modelos/sir/top.xml",
+    "DEVSML_MA_FILENAME": "root/modelos/sir/mafile.ma",
+    "DEVSML_SH_FILENAME": "root/modelos/sir/run.sh"
+  },
+  "lotka-volterra": {
+    "DIR_XMILE": "root/modelos/lotka-volterra/lotka-volterra.xmile",
+    "DEVSML_CPP_H_DIRECTORY": "root/modelos/lotka-volterra/atomics/",
+    "DEVSML_EVENTS_FILENAME": "root/modelos/lotka-volterra/events.ev",
+    "DEVSML_TOP_FILENAME": "root/modelos/lotka-volterra/top.xml",
+    "DEVSML_MA_FILENAME": "root/modelos/lotka-volterra/mafile.ma",
+    "DEVSML_SH_FILENAME": "root/modelos/lotka-volterra/run.sh"
+  },
+  "lotka-volterra-nested-1": {
+    "DIR_XMILE": "root/modelos/lotka-volterra-nested-1/lotka-volterra-nested-1.xmile",
+    "DEVSML_CPP_H_DIRECTORY": "root/modelos/lotka-volterra-nested-1/atomics/",
+    "DEVSML_EVENTS_FILENAME": "root/modelos/lotka-volterra-nested-1/events.ev",
+    "DEVSML_TOP_FILENAME": "root/modelos/lotka-volterra-nested-1/top.xml",
+    "DEVSML_MA_FILENAME": "root/modelos/lotka-volterra-nested-1/mafile.ma",
+    "DEVSML_SH_FILENAME": "root/modelos/lotka-volterra-nested-1/run.sh"
+  },
+  "lotka-volterra-nested-2" : {
+    "DIR_XMILE": "root/modelos/lotka-volterra-nested-2/lotka-volterra-nested-2.xmile",
+    "DEVSML_CPP_H_DIRECTORY": "root/modelos/lotka-volterra-nested-2/atomics/",
+    "DEVSML_EVENTS_FILENAME": "root/modelos/lotka-volterra-nested-2/events.ev",
+    "DEVSML_TOP_FILENAME": "root/modelos/lotka-volterra-nested-2/top.xml",
+    "DEVSML_MA_FILENAME": "root/modelos/lotka-volterra-nested-2/mafile.ma",
+    "DEVSML_SH_FILENAME": "root/modelos/lotka-volterra-nested-2/run.sh"
+  },
+"supply-demand": {
+    "DIR_XMILE": "root/modelos/supply-demand/supply-demand.xmile",
+    "DEVSML_CPP_H_DIRECTORY": "root/modelos/supply-demand/atomics/",
+    "DEVSML_EVENTS_FILENAME": "root/modelos/supply-demand/events.ev",
+    "DEVSML_TOP_FILENAME": "root/modelos/supply-demand/top.xml",
+    "DEVSML_MA_FILENAME": "root/modelos/supply-demand/mafile.ma",
+    "DEVSML_SH_FILENAME": "root/modelos/supply-demand/run.sh"
+  },
+  "supply-demand-2": {
+    "DIR_XMILE": "root/modelos/supply-demand-2/supply-demand-2.xmile",
+    "DEVSML_CPP_H_DIRECTORY": "root/modelos/supply-demand-2/atomics/",
+    "DEVSML_EVENTS_FILENAME": "root/modelos/supply-demand-2/events.ev",
+    "DEVSML_TOP_FILENAME": "root/modelos/supply-demand-2/top.xml",
+    "DEVSML_MA_FILENAME": "root/modelos/supply-demand-2/mafile.ma",
+    "DEVSML_SH_FILENAME": "root/modelos/supply-demand-2/run.sh"
+  },
+  "loanable-funds": {
+    "DIR_XMILE": "root/modelos/loanable-funds-matlab/loanable-funds.xmile",
+    "DEVSML_CPP_H_DIRECTORY": "root/modelos/loanable-funds-matlab/atomics/",
+    "DEVSML_EVENTS_FILENAME": "root/modelos/loanable-funds-matlab/events.ev",
+    "DEVSML_TOP_FILENAME": "root/modelos/loanable-funds-matlab/top.xml",
+    "DEVSML_MA_FILENAME": "root/modelos/loanable-funds-matlab/mafile.ma",
+    "DEVSML_SH_FILENAME": "root/modelos/loanable-funds-matlab/run.sh"
+  },
+  "goodwin-minsky-with-names": {
+    "DIR_XMILE": "root/modelos/goodwin-minsky-matlab/goodwin-minsky-with-names.xmile",
+    "DEVSML_CPP_H_DIRECTORY": "root/modelos/goodwin-minsky-matlab/atomics/",
+    "DEVSML_EVENTS_FILENAME": "root/modelos/goodwin-minsky-matlab/events.ev",
+    "DEVSML_TOP_FILENAME": "root/modelos/goodwin-minsky-matlab/top.xml",
+    "DEVSML_MA_FILENAME": "root/modelos/goodwin-minsky-matlab/mafile.ma",
+    "DEVSML_SH_FILENAME": "root/modelos/goodwin-minsky-matlab/run.sh"
+  },
+  "godley-tables": {
+    "DIR_XMILE": "root/modelos/godley-tables-matlab/godley-tables-matlab.xmile",
+    "DEVSML_CPP_H_DIRECTORY": "root/modelos/godley-tables-matlab/atomics/",
+    "DEVSML_EVENTS_FILENAME": "root/modelos/godley-tables-matlab/events.ev",
+    "DEVSML_TOP_FILENAME": "root/modelos/godley-tables-matlab/top.xml",
+    "DEVSML_MA_FILENAME": "root/modelos/godley-tables-matlab/mafile.ma",
+    "DEVSML_SH_FILENAME": "root/modelos/godley-tables-matlab/run.sh"
+  },
+  "lotka-volterra-tuneado": {
+    "DIR_XMILE": "root/modelos/lotka-volterra-tuneado/lotka-volterra-tuneado.xmile",
+    "DEVSML_CPP_H_DIRECTORY": "root/modelos/lotka-volterra-tuneado/atomics/",
+    "DEVSML_EVENTS_FILENAME": "root/modelos/lotka-volterra-tuneado/events.ev",
+    "DEVSML_TOP_FILENAME": "root/modelos/lotka-volterra-tuneado/top.xml",
+    "DEVSML_MA_FILENAME": "root/modelos/lotka-volterra-tuneado/mafile.ma",
+    "DEVSML_SH_FILENAME": "root/modelos/lotka-volterra-tuneado/run.sh"
+  }
+}

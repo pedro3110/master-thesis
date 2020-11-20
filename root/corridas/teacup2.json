@@ -1,0 +1,10 @@
+{
+  "teacup2": {
+    "DIR_XMILE": "root/modelos/teacup-2-outflows/teacup-2-outflows.xmile",
+    "DEVSML_CPP_H_DIRECTORY": "root/modelos/teacup-2-outflows/atomics/",
+    "DEVSML_EVENTS_FILENAME": "root/modelos/teacup-2-outflows/events.ev",
+    "DEVSML_TOP_FILENAME": "root/modelos/teacup-2-outflows/top.xml",
+    "DEVSML_MA_FILENAME": "root/modelos/teacup-2-outflows/mafile.ma",
+    "DEVSML_SH_FILENAME": "root/modelos/teacup-2-outflows/run.sh"
+  }
+}

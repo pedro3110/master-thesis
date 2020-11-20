@@ -1,0 +1,10 @@
+{
+  "teacup2_subcero": {
+    "DIR_XMILE": "root/modelos/teacup-2-outflows-sub-cero/teacup-2-outflows-sub-cero.xmile",
+    "DEVSML_CPP_H_DIRECTORY": "root/modelos/teacup-2-outflows-sub-cero/atomics/",
+    "DEVSML_EVENTS_FILENAME": "root/modelos/teacup-2-outflows-sub-cero/events.ev",
+    "DEVSML_TOP_FILENAME": "root/modelos/teacup-2-outflows-sub-cero/top.xml",
+    "DEVSML_MA_FILENAME": "root/modelos/teacup-2-outflows-sub-cero/mafile.ma",
+    "DEVSML_SH_FILENAME": "root/modelos/teacup-2-outflows-sub-cero/run.sh"
+  }
+}

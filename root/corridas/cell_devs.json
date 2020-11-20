@@ -1,0 +1,51 @@
+{
+    "teacup": {
+        "DIR": "root/modelos/cell/cell-teacup/",
+        "DIR_XMILE": "root/modelos/cell/cell-teacup/teacup.xmile",
+        "DEVSML_CPP_H_DIRECTORY": "root/modelos/cell/cell-teacup/atomics/",
+        "DEVSML_EVENTS_FILENAME": "root/modelos/cell/cell-teacup/events.ev",
+        "DEVSML_MA_FILENAME": "root/modelos/cell/cell-teacup/mafile.ma",
+        "DEVSML_TOP_FILENAME": "root/modelos/cell/cell-teacup/top.xml",
+        "DIR_MA_CELL_DEVS": "root/modelos/cell/cell-teacup/cell_devs.ma",
+        "DIR_CELL_DEVS": "root/modelos/cell/cell-teacup/cell_devs.xml",
+        "DIR_VALFILE": "root/modelos/cell/cell-teacup/valfile.val",
+        "VALFILE_GENERATOR": {
+            "name": "opinion",
+            "size_x": 5,
+            "size_y": 5,
+            "size_z": 2
+        },
+        "CELL_DEVS_ATOMIC": {
+            "name": "cell_devs_opinion",
+            "valfile_dir": "root/modelos/cell/cell-teacup/valfile.val",
+            "size_x": 5,
+            "size_y": 5,
+            "size_z": 2
+        }
+    },
+    "manhattan": {
+        "DIR": "root/modelos/cell/manhattan/",
+        "DIR_XMILE": "root/modelos/cell/manhattan/teacup.xmile",
+        "DEVSML_CPP_H_DIRECTORY": "root/modelos/cell/manhattan/atomics/",
+        "DEVSML_EVENTS_FILENAME": "root/modelos/cell/manhattan/events.ev",
+        "DEVSML_MA_FILENAME": "root/modelos/cell/manhattan/mafile.ma",
+        "DEVSML_TOP_FILENAME": "root/modelos/cell/manhattan/top.xml",
+        "DIR_MA_CELL_DEVS": "root/modelos/cell/manhattan/cell_devs.ma",
+        "DIR_VALFILE": "root/modelos/cell/manhattan/valfile.val",
+        "DIR_CELL_DEVS": "root/modelos/cell/manhattan/cell_devs.xml",
+        "VALFILE_GENERATOR":
+        {
+            "name": "manhattan",
+            "size_x": 62,
+            "size_y": 98,
+            "size_z": 2
+        },
+        "CELL_DEVS_ATOMIC": {
+            "name": "cell_devs_trafico",
+            "valfile_dir": "root/modelos/cell/manhattan/valfile.val",
+            "size_x": 62,
+            "size_y": 98,
+            "size_z": 2
+        }
+    }
+}

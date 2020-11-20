@@ -1,0 +1,10 @@
+{
+  "step": {
+    "DIR_XMILE": "root/modelos/step/step.xmile",
+    "DEVSML_CPP_H_DIRECTORY": "root/modelos/step/atomics/",
+    "DEVSML_EVENTS_FILENAME": "root/modelos/step/events.ev",
+    "DEVSML_TOP_FILENAME": "root/modelos/step/top.xml",
+    "DEVSML_MA_FILENAME": "root/modelos/step/mafile.ma",
+    "DEVSML_SH_FILENAME": "root/modelos/step/run.sh"
+  }
+}
